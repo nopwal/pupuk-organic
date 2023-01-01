@@ -361,8 +361,22 @@ footer {
         height: 100%;
     }
 
+    #home div{
+        width: 100%;
+        align-items: center !important; 
+        text-align: center;
+        align-items: center;
+    }
+
+    #home h1 {
+        font-size: 44px !important;
+        padding: 0px !important;
+        margin: 0px !important;
+        line-height: 60PX !important;
+    }
+
     #home img {
-        width: 360px;
+        width: 230px;
     }
 
     #home .container {
@@ -379,8 +393,12 @@ footer {
         height: 100%;
     }
 
+    #produk .card{
+        width: 340px;
+    }
+
     #contact .card {
-        width: 400px;
+        width: 340px;
         font-size: 13px;
     }
 }
